@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447070494 source:g:\codeblocks\09-11_funkcje\main.cpp
+	<iostream>
+	<stdio.h>
+
